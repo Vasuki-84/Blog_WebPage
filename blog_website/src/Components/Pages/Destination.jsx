@@ -5,8 +5,8 @@ import React from "react";
 function Destinations() {
   const destinations = [
     { name: "Paris, France", img: "https://i.pinimg.com/736x/21/06/55/2106558ee01ba951864f63464573f2b2.jpg" },
-    { name: "Bali, Indonesia", img: "https://source.unsplash.com/400x250/?bali" },
-    { name: "Tokyo, Japan", img: "https://source.unsplash.com/400x250/?tokyo,japan" },
+    { name: "Bali, Indonesia", img: "https://i.pinimg.com/736x/79/7f/10/797f10311478899b73037d563d76b7f4.jpg" },
+    { name: "Tokyo, Japan", img: "https://i.pinimg.com/736x/c4/47/cf/c447cf00e67c5ddccb84ca228d9a8d1d.jpg" },
   ];
 
   return (
